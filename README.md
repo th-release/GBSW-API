@@ -8,5 +8,5 @@ GBSW-API | 메인테이너: 최태혁
 yarn
 ```
 ```
-pnpm start:prod
+yarn start
 ```
