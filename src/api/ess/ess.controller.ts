@@ -6,6 +6,6 @@ import { EssService } from './ess.service';
 @Controller('api/ess')
 export class EssController {
   constructor (
-    private readonly authService: EssService,
+    private readonly essService: EssService,
   ) {}
 }
